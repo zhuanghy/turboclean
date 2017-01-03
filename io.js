@@ -66,6 +66,12 @@
 			{"pf":0, "id":""}
 		]
     	},
+	"os":{
+    		"force":false,
+    		"placements":[
+    			{"pf":7, "id":"378584155825545_379478015736159"}
+    		]
+    	}
     	"splash":{
     		"force":false,
     		"placements":[
