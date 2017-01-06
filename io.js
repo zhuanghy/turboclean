@@ -1,7 +1,7 @@
 {
     "code": 200,
     "ver": 1,
-    "step": 5,
+    "step": 6,
     "control": {
         "os": {
             "state": 0,
